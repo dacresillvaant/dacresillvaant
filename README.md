@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dacresillvaant
-- 👀 I’m interested in JAVA, SQL, Databases, Test automation
-- 🌱 I’m currently learning Java and Selenium
-- 💞️ I’m looking to collaborate on a project that requires backend development/test
+- 👀 I’m interested in JAVA, SQL, Databases, Test automation and DevOps
+- 🌱 I’m currently working as Test Automation Engineer
 - 📫 You can reach me through my e-mail address - mateusz.kubis94@gmail.com
 
 <!---
